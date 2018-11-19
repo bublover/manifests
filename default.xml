@@ -14,4 +14,7 @@
 </project>
 <project path="dloader" name="dloader" />
 <project path="firmware" name="firmware" />
+
+<remote name="bublover" fetch="https://github.com/bublover/" />
+<project path="zephyr/drivers/wifi/uwp/wifi_convert_ini" name="wifi_convert_ini" />
 </manifest>
